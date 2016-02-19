@@ -1,0 +1,48 @@
+.header{
+background: url("png/header.png") no-repeat;
+background-size: 100% 250px;
+height: 250px;
+position:relative;
+}
+
+.logo{
+font-family: 'Open Sans', sans-serif;
+font-size: 30px;
+color: #00a989; 
+position: absolute;
+top: 50%;
+left: 50%;
+transform: translate(-50%, -50%);
+margin: 0 -50% 0 0;
+}
+
+.container{
+padding: 25px;
+}
+
+.titles3 {
+font-weight: bold;
+color: #00a989;
+font-family: 'Open Sans', sans-serif;
+margin-bottom: 40px;
+}
+
+.titles2 {
+font-weight: bold;
+color: #00a989;
+font-family: 'Open Sans', sans-serif;
+}
+
+.liner{
+background-color: #00a989;
+width:14px;
+height:3px;}
+
+.spaces{
+height:30px;}
+
+.karla{
+font-family: 'Karla', sans-serif;
+font-size: 15px;}
+
+
